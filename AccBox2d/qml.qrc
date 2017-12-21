@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>acc/main.qml</file>
+        <file>acc/Object.qml</file>
+        <file>shared/ScreenBoundaries.qml</file>
+        <file>shared/RectangleBoxBody.qml</file>
+        <file>shared/PolygonBody.qml</file>
+        <file>shared/PhysicsItem.qml</file>
+        <file>shared/ImageBoxBody.qml</file>
+        <file>shared/EdgeBody.qml</file>
+        <file>shared/CircleBody.qml</file>
+        <file>shared/ChainBody.qml</file>
+        <file>shared/BoxBody.qml</file>
+        <file>acc/background.png</file>
+        <file>acc/woodenbox.png</file>
+        <file>acc/tire.png</file>
+        <file>acc/background.jpeg</file>
+        <file>acc/spacesuit.png</file>
+    </qresource>
+</RCC>
